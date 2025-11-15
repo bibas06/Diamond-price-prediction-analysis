@@ -8,10 +8,9 @@ This README explains the project goals, repo structure, how to run the analysis,
 - Project overview
 - Dataset
 - Key analyses and models
-- Repository structure
 - Installation
-- Notebooks and scripts
 - Modeling details & evaluation
+- Results summary
 - Contributing
 - License
 

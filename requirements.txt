@@ -1,0 +1,9 @@
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- xgboost or lightgbm
+- jupyterlab or notebook
+- joblib
+- shap (optional for interpretation)
